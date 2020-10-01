@@ -1,4 +1,9 @@
-/* f
+/*
+	Written and published by Andrew Tacon 2020
+	
+*/
+
+/* 
 
     getTilemapLayers function takes tilemap that has been created using the 'loadTiledMap' function
     from the p5.tiledmap.js librray.
